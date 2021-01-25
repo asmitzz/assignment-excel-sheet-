@@ -1,0 +1,24 @@
+{
+  "name": "assignment-excel-sheet-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmitzz/assignment-excel-sheet-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmitzz/assignment-excel-sheet-/issues"
+  },
+  "homepage": "https://github.com/asmitzz/assignment-excel-sheet-#readme",
+  "dependencies": {
+    "client": "^0.0.1",
+    "create-react-app": "^4.0.1"
+  }
+}
